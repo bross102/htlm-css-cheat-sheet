@@ -6,33 +6,51 @@ body{
   color: white;
 }
 
-.button{
-    text-align: center;
-    font-size: 16px;
-    background-color: black;
-    border: 1px solid white;
-    border-width: 5px;
-  padding-top: 30px;
-  padding-bottom: 30px;
-  margin-left: 85px;
-  margin-right: 85px;
-  margin-bottom: 30px;
-  border-radius: 8px;
-  background-color: black;
-  <style> 
-  input[type=button], input[type=submit], input[type=reset] {
-    background-color: #4CAF50;
-    border: none;
-    color: white;
-    padding: 16px 32px;
-    text-decoration: none;
-    margin: 4px 2px;
-    cursor: pointer;
-  }
-  </style>
-  <p>Styled input buttons.</p>
-  
-  <input type="button" value="Button">
-  <input type="reset" value="Reset">
-  <input type="submit" value="Submit">
+.border{
+border: solid black;
+ background-color: black;
+ margin-right: 550px;
+ text-align: center;
+ border
 }
+
+.h2{
+    text-align: center;
+}
+
+.border2{
+    border: solid white;
+     background-color: black;
+     margin-right: 450px;
+     text-align: center;
+     border-width:10 ;
+    }
+
+    .border3{
+        border: solid black;
+         background-color: black;
+         margin-right: 350px;
+         text-align: center;
+        border-width: ;
+        }
+
+        .border4{
+            border: solid white;
+             background-color: black;
+             margin-right: 350px;
+             text-align: center;
+            }
+
+            .border5{
+                border: solid black;
+                 background-color: black;
+                 margin-right: 350px;
+                 text-align: center;
+                }
+
+                .border6{
+                    border: solid white;
+                     background-color: black;
+                     margin-right: 350px;
+                     text-align: center;
+                    }
